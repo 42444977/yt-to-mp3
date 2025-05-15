@@ -1,5 +1,5 @@
 #需安裝ffmpeg https://ffmpeg.org/download.html
-#記得將 bin 加入系統環境變數 (例如 C:\ffmpeg\bin)
+#記得將 bin 加入系統環境變數 (例如 C:\ffmpeg\bin) 
 
 import yt_dlp
 import os
